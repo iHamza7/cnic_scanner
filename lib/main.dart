@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const SizedBox(
               height: 18,
             ),
-            const Text('Enter  Card Details',
+            const Text('Enter ID Card Details',
                 style: TextStyle(
                     color: Color(kDarkGreyColor),
                     fontSize: 23.0,
