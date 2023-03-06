@@ -78,8 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const SizedBox(
               height: 5,
             ),
-            const Text(
-                'To verify your Account, please enter your CNIC details.',
+            const Text('To verify your Account, please enter  CNIC details.',
                 style: TextStyle(
                     color: Color(kLightGreyColor),
                     fontSize: 15.0,
