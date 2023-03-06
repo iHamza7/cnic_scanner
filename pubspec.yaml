@@ -36,7 +36,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   cnic_scanner: ^0.0.2
   image_picker: ^0.8.6+4
-  path: ^1.8.2
 
 dev_dependencies:
   flutter_test:
