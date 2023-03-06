@@ -1,4 +1,4 @@
-# appofcnic
+# CNIC Scanner App
 
 A new Flutter project.
 
